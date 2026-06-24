@@ -48,8 +48,8 @@
 	shallow = true
 [submodule "llvm"]
 	path = llvm
-	url = https://github.com/llvm/llvm-project.git
-	branch = release/20.x
+	url = https://github.com/ruyisdk/llvm-project.git
+	branch = rebase-22.1.8
 	shallow = true
 [submodule "uclibc-ng"]
 	path = uclibc-ng
