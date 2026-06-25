@@ -20,10 +20,12 @@ FAIL: gcc.dg/vect/pr88598-3.c
 FAIL: gcc.target/riscv/rvv/autovec/pr113206-1.c
 FAIL: gcc.target/riscv/rvv/autovec/pr113206-2.c
 FAIL: gcc.target/riscv/rvv/vsetvl/pr117974.c
+FAIL: gcc.target/riscv/rvv/autovec/pr125670.c
 UNRESOLVED: gcc.target/riscv/pr122675-1.c
 UNRESOLVED: gcc.target/riscv/rvv/autovec/pr120378-2.c
 UNRESOLVED: gcc.target/riscv/rvv/autovec/pr120378-3.c
 UNRESOLVED: gcc.target/riscv/rvv/autovec/pr120378-4.c
+UNRESOLVED: gcc.target/riscv/rvv/autovec/pr125670.c
 XPASS: gcc.dg/plugin/crash-test-nested-ice.c
 XPASS: gcc.dg/plugin/crash-test-nested-write-through-null.c
 XPASS: gcc.dg/vect/costmodel/riscv/rvv/pr113281-1.c

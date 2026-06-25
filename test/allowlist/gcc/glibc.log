@@ -55,6 +55,7 @@ FAIL: gfortran.dg/coarray/pr107441-caf.f90
 FAIL: gfortran.dg/coarray/pr81265.f90
 FAIL: gfortran.dg/coarray/pr85510.f90
 FAIL: gfortran.dg/coarray/pr93671.f90
+FAIL: gfortran.dg/coarray/pr125021.f90
 FAIL: gfortran.dg/coarray/proc_pointer_assign_1.f90
 FAIL: gfortran.dg/coarray/ptr_comp_1.f08
 FAIL: gfortran.dg/coarray/ptr_comp_2.f08
